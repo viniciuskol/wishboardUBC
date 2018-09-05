@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'DJBAnnalisetheBrave';
+    src: url('../fonts/DJBAnnalisetheBrave.eot');
+    src: url('../fonts/DJBAnnalisetheBrave.eot#iefix') format('embedded-opentype'), url('../fonts/DJBAnnalisetheBrave.woff') format('woff'), url('../fonts/DJBAnnalisetheBrave.ttf') format('truetype'), url('../fonts/DJBAnnalisetheBrave.svg#DJBAnnalisetheBrave') format('svg');
+}
+@font-face {
+    font-family: 'symbola';
+    src: url('../fonts/symbola.eot');
+    src: url('../fonts/symbola.eot#iefix') format('embedded-opentype'), url('../fonts/symbola.woff') format('woff'), url('../fonts/symbola.ttf') format('truetype'), url('../fonts/symbola.svg#symbola') format('svg');
+}

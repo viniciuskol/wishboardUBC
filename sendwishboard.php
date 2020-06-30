@@ -10,7 +10,7 @@ if (isset($_POST['name']) && isset($_POST['country']) && $_POST['country'] =='')
 
 $name     = $_POST['name'];
 $email    = trim($_POST['email']);
-$emailsender = "wishboard@shareyourwishes.ca";
+$emailsender = "*****@shareyourwishes.ca";
 $subject           = "WishBoard - Comments";
 $message          = $_POST['message'];
  
